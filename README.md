@@ -1,2 +1,2 @@
 # Car-Pooling-App
-Project [Associated with Lovely Professional University]
+Major Project [Associated with ADVANCED ANDROID APP DEVELOPMENT Subject [CSE227] at Lovely Professional University]
