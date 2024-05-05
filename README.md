@@ -105,3 +105,36 @@ This project aims to create a Car Pooling App using Android Studio and Kotlin. I
     <img src="project_images/37.jpg" alt="Image 37" width="150" style="margin: 5px;" />
 </div>
 
+
+## Note:
+
+1. **Email Confirmation for Ride Booking:**
+   - To enable email confirmation for ride bookings, a 16-digit unique code is generated via email. Update the sender's Gmail address and the 16-digit unique key in the codebase to activate this feature.
+
+2. **SMTP with Gmail:**
+   - SMTP (Simple Mail Transfer Protocol) is used with Gmail to send email notifications for ride confirmations. Configure the sender's Gmail address in the application for email functionality.
+
+3. **Firebase Realtime Database:**
+   - The app utilizes Firebase Realtime Database to store and manage details such as car owner information, login credentials, ratings, feedback, and rider details. Ensure proper Firebase setup for seamless data management.
+
+4. **Firebase Authentication (Phone Verification):**
+   - Firebase Authentication is integrated for phone verification. Note that the free version limits to 10 SMS verifications per day. Configure Firebase Auth settings accordingly.
+
+5. **Firebase Rules Configuration:**
+   - Firebase rules for both read and write operations are set to **true** to avoid any issues related to database access. Ensure Firebase rules are properly configured for development and testing purposes.
+
+6. **Running the Project:**
+   - To run the project on your system:
+     - Clone the repository using Git: `git clone https://github.com/yourusername/carpooling-app.git`
+     - Open Android Studio and import the project from Version Control (Git).
+     - Paste the repository URL and proceed to clone the project.
+     - Update necessary configurations such as Gmail sender address and Firebase setup within the codebase.
+     - Run the project in Android Studio to launch the Car Pooling App.
+
+7. **API Level Requirement for Enable WiFi Button:**
+   - The "Enable WiFi" button functionality is compatible with API levels below 27. Ensure the appropriate Android API level is installed to utilize this feature.
+
+---
+
+*This section provides essential notes and instructions for setting up and running the Car Pooling App project. Done by Gopi Krishna*
+
