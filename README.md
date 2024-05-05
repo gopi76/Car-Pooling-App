@@ -46,6 +46,14 @@ This project aims to create a Car Pooling App using Android Studio and Kotlin. I
 20. **Turn on WiFi:** With this function, users can easily turn on WiFi right from within the app. Because internet access is necessary for the proper operation of apps, users can assure seamless and uninterrupted app usage by tapping the "Enable Wifi" option on their smartphone.
 
 
+## Demo Video
+[Watch the demo video](https://github.com/gopi76/Car-Pooling-App/raw/main/12115851_GopiKrishna_Roll_62_KO203_CSE227.mp4)
+
+You can click the link above to watch the demo video.
+
+
+
+
 
 
 ## Project Images
