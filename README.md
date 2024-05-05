@@ -1,6 +1,13 @@
 # Car-Pooling-App
 Major Project [Associated with ADVANCED ANDROID APP DEVELOPMENT Subject [CSE227] at Lovely Professional University]
 
+# This Repository contains these things : 
+- Project Source Code
+- Project APK App File
+- Project Overview of Features Used
+- Project Images
+- Attached Working Video
+
 # Project Overview
 
 This project aims to create a Car Pooling App using Android Studio and Kotlin. It includes the following features:
