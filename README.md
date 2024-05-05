@@ -45,15 +45,15 @@ This project aims to create a Car Pooling App using Android Studio and Kotlin. I
 
 20. **Turn on WiFi:** With this function, users can easily turn on WiFi right from within the app. Because internet access is necessary for the proper operation of apps, users can assure seamless and uninterrupted app usage by tapping the "Enable Wifi" option on their smartphone.
 
-
-## Demo Video
-[Watch the demo video](https://github.com/gopi76/Car-Pooling-App/raw/main/12115851_GopiKrishna_Roll_62_KO203_CSE227.mp4)
-
-You can click the link above to watch the demo video.
+21. **Text-to-Speech (TTS):** This feature improves accessibility and user interaction by allowing users to convert text input into spoken language output in one of five languages.
+    
+23. **Speech-to-Text (STT):** Users can speak to transmit data; the speech is converted to text and shown in the application's text view ( only English ).
 
 
 
+## Working Project Video
 
+[![Demo Video](https://img.youtube.com/vi/9zN7ahBuHBs/0.jpg)](https://www.youtube.com/embed/9zN7ahBuHBs)
 
 
 ## Project Images
