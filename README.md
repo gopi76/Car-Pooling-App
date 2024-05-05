@@ -103,6 +103,13 @@ This project aims to create a Car Pooling App using Android Studio and Kotlin. I
     <img src="project_images/35.jpg" alt="Image 35" width="150" style="margin: 5px;" />
     <img src="project_images/36.jpg" alt="Image 36" width="150" style="margin: 5px;" />
     <img src="project_images/37.jpg" alt="Image 37" width="150" style="margin: 5px;" />
+    <img src="project_images/38.jpg" alt="Image 38" width="150" style="margin: 5px;" />
+    <img src="project_images/39.jpg" alt="Image 39" width="150" style="margin: 5px;" />
+</div>
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="project_images/40.jpg" alt="Image 40" width="150" style="margin: 5px;" />
+    <img src="project_images/41.jpg" alt="Image 41" width="150" style="margin: 5px;" />
+    <img src="project_images/42.jpg" alt="Image 42" width="150" style="margin: 5px;" />
 </div>
 
 
