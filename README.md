@@ -56,7 +56,7 @@ This project aims to create a Car Pooling App using Android Studio and Kotlin. I
     
 23. **Speech-to-Text (STT):** Users can speak to transmit data; the speech is converted to text and shown in the application's text view ( only English ).
 
-## Flowchart Activity (for better understanding )
+## Flowchart (for better understanding )
 <div style="display: flex; flex-wrap: wrap;">
  <img src="project_images/flow_chart.jpg" alt="Image 0" width="450" style="margin: 5px;" />
 </div>
